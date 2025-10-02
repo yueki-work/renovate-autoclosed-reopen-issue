@@ -1,4 +1,9 @@
 {
   "packageRules": [
+     {
+      "description": "Allow",
+      "matchPackageNames": ["/.*checkout.*/"],
+      "allowedVersions": "/^v4\\.2\\.1$/"
+    }
   ]
 }
