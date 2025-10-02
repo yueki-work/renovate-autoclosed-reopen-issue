@@ -6,7 +6,7 @@
      {
       "description": "Allow",
       "matchPackageNames": ["/.*checkout.*/"],
-      "allowedVersions": "/^v44\\.2\\.1$/"
+      "allowedVersions": "/^v4\\.2\\.2$/"
     }
   ]
 }
