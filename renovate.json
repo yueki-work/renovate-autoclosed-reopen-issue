@@ -1,4 +1,7 @@
 {
+ "extends": [
+    ":disableRateLimiting"
+ ]
   "packageRules": [
      {
       "description": "Allow",
